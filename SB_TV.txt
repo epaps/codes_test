@@ -3,3 +3,5 @@ fidelity
 parameter
 
 forward differences
+
+primal-dual step sizes
