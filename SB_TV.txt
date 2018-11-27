@@ -1,3 +1,5 @@
 regularizer
 fidelity
 parameter
+
+forward differences
