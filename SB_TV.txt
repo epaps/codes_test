@@ -5,3 +5,5 @@ parameter
 forward differences
 
 primal-dual step sizes
+
+check admm
