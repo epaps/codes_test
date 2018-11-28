@@ -7,3 +7,5 @@ forward differences
 primal-dual step sizes
 
 check admm
+
+douglas maybe?
